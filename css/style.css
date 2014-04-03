@@ -1,0 +1,9 @@
+h1 { color: red;
+  background: black;
+}
+a{ color: orange;
+  text-decoration: none;
+}
+a[href= "hani.mnshi@gmail.com"]{
+  text-transform: uppercase;
+}
